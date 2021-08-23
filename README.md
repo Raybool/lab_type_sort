@@ -1,5 +1,5 @@
 # lab_type_sort
-  FILE:
+ ### FILE: ###
 _____________________________________________________
   + main.py - Main file; 
   + sorts.py - Sort function file;
